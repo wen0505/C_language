@@ -1,0 +1,3 @@
+//	(num%7)?(printf("%d不是7的倍數\n",num)):(printf("%d是7的倍數\n",num));
+//	(num%11)?(printf("%d不是11的倍數\n",num)):(printf("%d是11的倍數\n",num));
+//	(num%13)?(printf("%d不是13的倍數\n",num)):(printf("%d是13的倍數\n",num));
